@@ -1,55 +1,55 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal AXN White España">
-    <display-name lang="es">Canal AXN White España</display-name>
+  <channel id="AXN WHITE FHD">
+    <display-name lang="es">AXN WHITE FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210207020200 +0100" stop="20210207033100 +0100" channel="Canal AXN White España">
+  <programme start="20210207020200 +0100" stop="20210207033100 +0100" channel="AXN WHITE FHD">
     <title lang="es">Asalto al furgón blindado</title>
   </programme>
-  <programme start="20210207033100 +0100" stop="20210207054100 +0100" channel="Canal AXN White España">
+  <programme start="20210207033100 +0100" stop="20210207054100 +0100" channel="AXN WHITE FHD">
     <title lang="es">El árbol de la vida de Terrence Malick</title>
   </programme>
-  <programme start="20210207054100 +0100" stop="20210207062400 +0100" channel="Canal AXN White España">
+  <programme start="20210207054100 +0100" stop="20210207062400 +0100" channel="AXN WHITE FHD">
     <title lang="es">Cómo defender a un</title>
   </programme>
-  <programme start="20210207062400 +0100" stop="20210207070500 +0100" channel="Canal AXN White España">
+  <programme start="20210207062400 +0100" stop="20210207070500 +0100" channel="AXN WHITE FHD">
     <title lang="es">Cómo defender a un</title>
   </programme>
-  <programme start="20210207070500 +0100" stop="20210207075600 +0100" channel="Canal AXN White España">
+  <programme start="20210207070500 +0100" stop="20210207075600 +0100" channel="AXN WHITE FHD">
     <title lang="es">Cómo defender a un</title>
   </programme>
-  <programme start="20210207075600 +0100" stop="20210207083700 +0100" channel="Canal AXN White España">
+  <programme start="20210207075600 +0100" stop="20210207083700 +0100" channel="AXN WHITE FHD">
     <title lang="es">Absentia</title>
   </programme>
-  <programme start="20210207083700 +0100" stop="20210207101800 +0100" channel="Canal AXN White España">
+  <programme start="20210207083700 +0100" stop="20210207101800 +0100" channel="AXN WHITE FHD">
     <title lang="es">The Tourist</title>
   </programme>
-  <programme start="20210207101800 +0100" stop="20210207115100 +0100" channel="Canal AXN White España">
+  <programme start="20210207101800 +0100" stop="20210207115100 +0100" channel="AXN WHITE FHD">
     <title lang="es">Poseidon</title>
   </programme>
-  <programme start="20210207115100 +0100" stop="20210207133900 +0100" channel="Canal AXN White España">
+  <programme start="20210207115100 +0100" stop="20210207133900 +0100" channel="AXN WHITE FHD">
     <title lang="es">La mujer invisible</title>
   </programme>
-  <programme start="20210207133900 +0100" stop="20210207151000 +0100" channel="Canal AXN White España">
+  <programme start="20210207133900 +0100" stop="20210207151000 +0100" channel="AXN WHITE FHD">
     <title lang="es">El super canguro</title>
   </programme>
-  <programme start="20210207151000 +0100" stop="20210207165800 +0100" channel="Canal AXN White España">
+  <programme start="20210207151000 +0100" stop="20210207165800 +0100" channel="AXN WHITE FHD">
     <title lang="es">Ghost Rider. El motorista fantasma</title>
   </programme>
-  <programme start="20210207165800 +0100" stop="20210207182400 +0100" channel="Canal AXN White España">
+  <programme start="20210207165800 +0100" stop="20210207182400 +0100" channel="AXN WHITE FHD">
     <title lang="es">Hombres de Negro II</title>
   </programme>
-  <programme start="20210207182400 +0100" stop="20210207201000 +0100" channel="Canal AXN White España">
+  <programme start="20210207182400 +0100" stop="20210207201000 +0100" channel="AXN WHITE FHD">
     <title lang="es">Seduciendo a un extraño</title>
   </programme>
-  <programme start="20210207201000 +0100" stop="20210207220000 +0100" channel="Canal AXN White España">
+  <programme start="20210207201000 +0100" stop="20210207220000 +0100" channel="AXN WHITE FHD">
     <title lang="es">Caza al asesino</title>
   </programme>
-  <programme start="20210207220000 +0100" stop="20210207235400 +0100" channel="Canal AXN White España">
+  <programme start="20210207220000 +0100" stop="20210207235400 +0100" channel="AXN WHITE FHD">
     <title lang="es">Demolition Man</title>
   </programme>
-  <programme start="20210207235400 +0100" stop="20210208012300 +0100" channel="Canal AXN White España">
+  <programme start="20210207235400 +0100" stop="20210208012300 +0100" channel="AXN WHITE FHD">
     <title lang="es">Ultravioleta (Ultraviolet)</title>
   </programme>
 </tv>
